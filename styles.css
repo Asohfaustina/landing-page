@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    font-size: 30px;
+    padding: 2px;
+    font-family: ravie;
+
+}
+
+.logos {
+    font-family: ravie;
+}
+
+.bg-theme {
+    background-color: #000099 !important;
+    color: white;
+    opacity: 0.7;
+}
+
+.bg-ghost {
+    background-color: whitesmoke;
+}
+
+.top-nav {
+    height: auto;
+
+}
+
+li:hover {
+    border-bottom: 2px solid #000099;
+}
+
+.text-theme {
+    color: #000099 !important;
+}
+
+.head {
+    font-family: sans-serif;
+
+}
+
+.btn-theme {
+    background-color: #000099 !important;
+    color: white;
+
+
+}
+
+.border-theme {
+    border: 2px solid #000099;
+}
+
+.img-text {
+    position: relative;
+}
+
+.img {
+    background-image: url(image/taco.jpg);
+    background-position: center;
+    background-size: cover;
+    max-width: 700px;
+    height: auto;
+    margin: auto;
+
+}
+
+.icon {
+    font-size: 70px;
+    text-align: center;
+}
